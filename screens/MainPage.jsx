@@ -93,7 +93,7 @@ const MainPage = () => {
         fetchData();
 
     }, []);
-
+//
     const renderItem = ({ item }) => (
         <TouchableOpacity
             style={{ alignItems: 'center', marginRight: 15, marginTop: 0 }}
